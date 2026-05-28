@@ -1,4 +1,4 @@
-#### Proiect Manual Testing – SauceDemo
+### Proiect Manual Testing – SauceDemo
 
 #### Descriere Proiect
 
@@ -25,19 +25,7 @@ Scopul proiectului a fost verificarea functionalitatilor principale ale aplicati
 * Verificarea comportamentului cosului de cumparaturi
 * Identificarea defectelor functionale
 * Validarea experientei utilizatorului
-
-#### Aria de Testare
-
-Testarea a fost realizata pentru urmatoarele module:
-
-* Login Interface
-* Products Page
-* Shopping Cart
-* Single Product Page
-* Checkout Information
-* Checkout Overview
-* Checkout Complete
-  
+ 
 ---
 #### Scenarii de Testare Executate
 
