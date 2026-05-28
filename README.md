@@ -4,7 +4,7 @@
 
 Acest proiect reprezinta o activitate de testare manuala realizata pentru aplicatia web SauceDemo. (https://www.saucedemo.com/)
 
-Scopul proiectului a fost verificarea functionalitatilor principale ale aplicatiei prin proiectarea, executarea si documentarea cazurilor de testare pentru fluxurile critice ale utilizatorului. Au fost executate 32 de cazuri de testare pentru utilizatorii `standard_user` si `error_user`, fiind validate fluxurile de autentificare, gestionare produse, cos de cumparaturi si checkout.
+Scopul proiectului a fost verificarea functionalitatilor principale ale aplicatiei prin proiectarea, executarea si documentarea cazurilor de testare pentru fluxurile critice ale utilizatorului. 
 
 #### Mediu de Testare
 
@@ -16,6 +16,9 @@ Scopul proiectului a fost verificarea functionalitatilor principale ale aplicati
 | Tehnica de testare | Testare functionala       |
 | Sistem de operare  | Windows                   |
 | Conturi utilizate  | standard_user, error_user |
+
+#### Management si urmarire test cases 
+GitHub Projects (https://github.com/users/elenab01234/projects/3)
 
 #### Obiectivele Testarii
 
@@ -116,18 +119,15 @@ Checkout Overview:
 | BUG-10 | Finish nu redirectioneaza catre Finish Page               |
 
 ---
-#### Instrumente Utilizate
-
-* Google Sheets/ Docs
-* GitHub Projects (task management)
-
----
 #### Concluzie
 
-Rezultatele obtinute au evidentiat atat functionalitati stabile, cat si defecte functionale importante in modulele Products Page si Checkout, in special pentru utilizatorul `error_user`.
+Testarea manuala efectuata pe aplicatia SauceDemo a acoperit principalele functionalitati disponibile pentru utilizator.
+
+Au fost executate 32 de cazuri de testare pentru utilizatorii standard_user si error_user, fiind validate fluxurile de autentificare, gestionare produse, cos de cumparaturi si checkout.
+
+Rezultatele obtinute au evidentiat atat functionalitati stabile, cat si defecte functionale importante in modulele Products Page si Checkout, in special pentru utilizatorul error_user.Rezultatele obtinute au evidentiat atat functionalitati stabile, cat si defecte functionale importante in modulele Products Page si Checkout, in special pentru utilizatorul `error_user`.
 
 Proiectul demonstreaza capacitatea de:
-
 * creare a cazurilor de testare
 * executare manuala a testelor
 * identificare si raportare defecte
